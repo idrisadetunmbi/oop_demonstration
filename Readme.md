@@ -1,0 +1,1 @@
+An andela bootcamp project to demonstrate OOP concepts in Javascript ES6
