@@ -1,0 +1,26 @@
+{
+  "name": "oop_demonstration",
+  "version": "1.0.0",
+  "description": "A project to demonstrate OOP concepts in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha test tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idrisadetunmbi/oop_demonstration.git"
+  },
+  "keywords": [
+    "Javascript",
+    "OOP"
+  ],
+  "author": "Idris Adetunmbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idrisadetunmbi/oop_demonstration/issues"
+  },
+  "homepage": "https://github.com/idrisadetunmbi/oop_demonstration#readme",
+  "dependencies": {
+    "mocha": "^3.5.0"
+  }
+}
